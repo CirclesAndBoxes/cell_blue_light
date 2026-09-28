@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"index": 12,
+		"cases": [
+			{
+				"when": "blue_concrete",
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/mito_top"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:empty"
+		}
+	}
+}

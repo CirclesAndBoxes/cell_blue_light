@@ -1,0 +1,1 @@
+kill @n[type=text_display,tag=bluel.textblock]
